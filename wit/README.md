@@ -1,6 +1,8 @@
 ## wit - WiFi Image Transfer (for Icom IC-705).
 'wit' is simple utility to send picture directly to radio over WiFi. IC-705 need to be accessible over IP with TCP port 60000 to work with this tool.
 
+You can watch this software in action on my youtube channel https://youtu.be/BRDKWNSRsig
+
 #### How it works?
 In gimp or any other software create jpeg file with resolution 640x480 and disabled interlace. In script change IP (line 17) and change filename (line 22). After that run script, acknowledge transfer on radio and wait :)
 

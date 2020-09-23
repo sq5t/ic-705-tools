@@ -3,4 +3,4 @@ Set of tools writen in different programming language based on what i really wan
 Most of them will be proof-of-concept to show possibility with open source and this radio. Any  software that is not poc will be in seperate repository on my github.
 
 ------------
-[Image transfer over WiFi to Icom IC-705 and it's called wit. ](https://github.com/sq5t/ic-705-tools/wit/ "Image transfer over WiFi to Icom IC-705 and it's called wit. ")
+[Image transfer over WiFi to Icom IC-705 and it's called wit. ](https://github.com/sq5t/ic-705-tools/tree/master/wit "Image transfer over WiFi to Icom IC-705 and it's called wit. ")
